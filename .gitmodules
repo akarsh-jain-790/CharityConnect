@@ -1,0 +1,6 @@
+[submodule "charityconnect-backend"]
+	path = charityconnect-backend
+	url = https://github.com/alok8bb/charityconnect-backend
+[submodule "CharityConnect-frontend"]
+	path = CharityConnect-frontend
+	url = https://github.com/akarsh-jain-790/CharityConnect-frontend
